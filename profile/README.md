@@ -1,6 +1,6 @@
 # 3D Optical Imaging System LAB (李研究室)
 
-Welcome to our laboratory.
+Welcome to our laboratory. <br/>
 We researching the
 - Integral Imaging Systems
 - Dehazing algorithm
@@ -10,6 +10,14 @@ We researching the
 - Security
 - Photon-counting algorithm
 
+For more information visit our website
+
+---
+Advisor: Min-Chul Lee <br/>
+
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=9sv1-5QAAAAJ&hl=en)
+[![LEE LAB](https://img.shields.io/badge/Lab%20Website-0F9D58?style=flat-square&logo=googlechrome&logoColor=white)](https://leelab.csn.kyutech.ac.jp/)
+[![Prof. Lee](https://img.shields.io/badge/Prof.%20Lee%20-333333?style=flat-square&logo=aboutdotme&logoColor=white)](https://researchmap.jp/mclee)
 
 
 
