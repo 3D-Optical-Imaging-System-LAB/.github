@@ -19,7 +19,9 @@ Advisor: Min-Chul Lee <br/>
 [![LEE LAB](https://img.shields.io/badge/Lab%20Website-0F9D58?style=flat-square&logo=googlechrome&logoColor=white)](https://leelab.csn.kyutech.ac.jp/)
 [![Prof. Lee](https://img.shields.io/badge/Prof.%20Lee%20-333333?style=flat-square&logo=aboutdotme&logoColor=white)](https://researchmap.jp/mclee)
 
-
+---
+If you student of the Lee LAB.<br/>
+Please enter your team :)
 
 
 <!--
